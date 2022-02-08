@@ -1,9 +1,6 @@
 import sys
 from decimal import Decimal
-
 from PyQt5 import QtCore, QtGui, QtWidgets, uic
-
-
 import subprocess
 import threading
 
